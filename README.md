@@ -20,8 +20,8 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Document
+See [详细使用文档](https://blog.csdn.net/z_blackbear/article/details/139357133?spm=1001.2014.3001.5501).
 
 ## 说明
 
